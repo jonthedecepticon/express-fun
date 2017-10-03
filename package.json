@@ -1,0 +1,17 @@
+{
+  "name": "express_website",
+  "version": "1.0.0",
+  "description": "Simple Website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Jon Lambson",
+  "license": "ISC",
+  "dependencies" : {
+    "body-parser": "*",
+    "express": "*",
+    "pug": "*",
+    "nodemailer": "*"
+  }
+}
